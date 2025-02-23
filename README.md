@@ -35,7 +35,12 @@
   ![07](https://github.com/user-attachments/assets/a42487e8-0abf-4548-8fb0-ebfce1a1cab1)
   ![08](https://github.com/user-attachments/assets/9549af2d-1caf-4fc2-afaf-926160c09d37)
 
- ![xiaomage](https://github.com/user-attachments/assets/138b39af-d25b-451e-ad5e-42fd5aeecd0c)
+# 产品体验
+
+如果你对本项目感兴趣，项目合作、体验请联系微信
+
+![wx](https://github.com/user-attachments/assets/998ff47a-4db7-4c00-b203-42ad3511effe)
+
 
 
   
