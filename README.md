@@ -8,7 +8,7 @@
 用户端 uniapp（vue语法）
 管理后台 vue+elementUi
 
-# 功能描述
+# 功能描述-
 
 商城+积分商城+配送
 
